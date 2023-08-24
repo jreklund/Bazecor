@@ -39,7 +39,7 @@ const createWindow = () => {
       sandbox: false,
       nodeIntegration: true,
       contextIsolation: false,
-      webSecurity: false,
+      webSecurity: true,
     },
   });
 

@@ -9,7 +9,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "ESC",
+      "first": "41",
       "second": "",
       "third": "",
       "fourth": ""
@@ -25,7 +25,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F1",
+      "first": "58",
       "second": "",
       "third": "",
       "fourth": ""
@@ -41,7 +41,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F2",
+      "first": "59",
       "second": "",
       "third": "",
       "fourth": ""
@@ -57,7 +57,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F3",
+      "first": "60",
       "second": "",
       "third": "",
       "fourth": ""
@@ -73,7 +73,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F4",
+      "first": "61",
       "second": "",
       "third": "",
       "fourth": ""
@@ -89,7 +89,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F5",
+      "first": "62",
       "second": "",
       "third": "",
       "fourth": ""
@@ -105,7 +105,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F6",
+      "first": "63",
       "second": "",
       "third": "",
       "fourth": ""
@@ -121,7 +121,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F7",
+      "first": "64",
       "second": "",
       "third": "",
       "fourth": ""
@@ -137,7 +137,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F8",
+      "first": "65",
       "second": "",
       "third": "",
       "fourth": ""
@@ -153,7 +153,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F9",
+      "first": "66",
       "second": "",
       "third": "",
       "fourth": ""
@@ -169,7 +169,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F10",
+      "first": "67",
       "second": "",
       "third": "",
       "fourth": ""
@@ -185,7 +185,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F11",
+      "first": "68",
       "second": "",
       "third": "",
       "fourth": ""
@@ -201,7 +201,7 @@
     "iconname": "",
     "content": {
       "type": "1UT",
-      "first": "F12",
+      "first": "69",
       "second": "",
       "third": "",
       "fourth": ""
@@ -217,8 +217,8 @@
     "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "Print",
-      "second": "Scr",
+      "first": "70",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -233,8 +233,8 @@
     "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "Scroll",
-      "second": "Lock",
+      "first": "71",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -249,8 +249,8 @@
     "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "Pause",
-      "second": "Break",
+      "first": "72",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -265,8 +265,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "Num",
-      "second": "Lock",
+      "first": "83",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -281,7 +281,7 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "/",
+      "first": "84",
       "second": "",
       "third": "",
       "fourth": ""
@@ -297,7 +297,7 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "*",
+      "first": "85",
       "second": "",
       "third": "",
       "fourth": ""
@@ -313,7 +313,7 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "-",
+      "first": "86",
       "second": "",
       "third": "",
       "fourth": ""
@@ -329,8 +329,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "`",
-      "second": "~",
+      "first": "53",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -345,8 +345,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "1",
-      "second": "!",
+      "first": "30",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -361,8 +361,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "2",
-      "second": "@",
+      "first": "31",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -377,8 +377,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "3",
-      "second": "#",
+      "first": "32",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -393,8 +393,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "4",
-      "second": "$",
+      "first": "33",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -409,8 +409,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "5",
-      "second": "%",
+      "first": "34",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -425,8 +425,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "6",
-      "second": "^",
+      "first": "35",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -441,8 +441,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "7",
-      "second": "&",
+      "first": "36",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -457,8 +457,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "8",
-      "second": "*",
+      "first": "37",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -473,8 +473,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "9",
-      "second": "(",
+      "first": "38",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -489,8 +489,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "0",
-      "second": ")",
+      "first": "39",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -505,8 +505,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "-",
-      "second": "_",
+      "first": "45",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -521,8 +521,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "=",
-      "second": "+",
+      "first": "46",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -532,7 +532,7 @@
     "x": 637,
     "y": 38,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "iconsize": 16,
     "iconx": 655,
     "icony": 40,
@@ -540,7 +540,7 @@
     "iconname": "Backspace",
     "content": {
       "type": "1U2",
-      "first": "",
+      "first": "42",
       "second": "",
       "third": "",
       "fourth": ""
@@ -556,7 +556,7 @@
     "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "Ins",
+      "first": "73",
       "second": "",
       "third": "",
       "fourth": ""
@@ -572,7 +572,7 @@
     "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "Home",
+      "first": "74",
       "second": "",
       "third": "",
       "fourth": ""
@@ -588,8 +588,8 @@
     "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "Page",
-      "second": "Up",
+      "first": "75",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -604,8 +604,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "7",
-      "second": "Home",
+      "first": "95",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -620,8 +620,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "8",
-      "second": "↑",
+      "first": "96",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -636,8 +636,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "9",
-      "second": "PgUp",
+      "first": "97",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -652,7 +652,7 @@
     "iconname": "",
     "content": {
       "type": "longBlock",
-      "first": "+",
+      "first": "87",
       "second": "",
       "third": "",
       "fourth": ""
@@ -663,7 +663,7 @@
     "x": 0,
     "y": 73,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "iconsize": 15,
     "iconx": 21,
     "icony": 75,
@@ -671,7 +671,7 @@
     "iconname": "Tab",
     "content": {
       "type": "1U2",
-      "first": "",
+      "first": "43",
       "second": "",
       "third": "",
       "fourth": ""
@@ -687,7 +687,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "Q",
+      "first": "20",
       "second": "",
       "third": "",
       "fourth": ""
@@ -703,7 +703,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "W",
+      "first": "26",
       "second": "",
       "third": "",
       "fourth": ""
@@ -719,7 +719,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "E",
+      "first": "8",
       "second": "",
       "third": "",
       "fourth": ""
@@ -735,7 +735,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "R",
+      "first": "21",
       "second": "",
       "third": "",
       "fourth": ""
@@ -751,7 +751,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "T",
+      "first": "23",
       "second": "",
       "third": "",
       "fourth": ""
@@ -767,7 +767,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "Y",
+      "first": "28",
       "second": "",
       "third": "",
       "fourth": ""
@@ -783,7 +783,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "U",
+      "first": "24",
       "second": "",
       "third": "",
       "fourth": ""
@@ -799,7 +799,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "I",
+      "first": "12",
       "second": "",
       "third": "",
       "fourth": ""
@@ -815,7 +815,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "O",
+      "first": "18",
       "second": "",
       "third": "",
       "fourth": ""
@@ -831,7 +831,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "P",
+      "first": "19",
       "second": "",
       "third": "",
       "fourth": ""
@@ -847,8 +847,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "[",
-      "second": "{",
+      "first": "47",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -863,8 +863,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "]",
-      "second": "}",
+      "first": "48",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -879,8 +879,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "\\",
-      "second": "|",
+      "first": "49",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -895,7 +895,7 @@
     "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "Del",
+      "first": "76",
       "second": "",
       "third": "",
       "fourth": ""
@@ -911,7 +911,7 @@
     "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "End",
+      "first": "77",
       "second": "",
       "third": "",
       "fourth": ""
@@ -927,8 +927,8 @@
     "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "Page",
-      "second": "Dwn",
+      "first": "78",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -938,7 +938,7 @@
     "x": 0,
     "y": 108,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "iconsize": 22,
     "iconx": 22,
     "icony": 105,
@@ -946,7 +946,7 @@
     "iconname": "CapsLock",
     "content": {
       "type": "1U5",
-      "first": "",
+      "first": "57",
       "second": "",
       "third": "",
       "fourth": ""
@@ -962,7 +962,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "A",
+      "first": "4",
       "second": "",
       "third": "",
       "fourth": ""
@@ -978,7 +978,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "S",
+      "first": "22",
       "second": "",
       "third": "",
       "fourth": ""
@@ -994,7 +994,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "D",
+      "first": "7",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1010,7 +1010,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "F",
+      "first": "9",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1026,7 +1026,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "G",
+      "first": "10",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1042,7 +1042,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "H",
+      "first": "11",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1058,7 +1058,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "J",
+      "first": "13",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1074,7 +1074,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "K",
+      "first": "14",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1090,7 +1090,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "L",
+      "first": "15",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1106,8 +1106,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": ";",
-      "second": ":",
+      "first": "51",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1122,8 +1122,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "'",
-      "second": "\"",
+      "first": "52",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1133,7 +1133,7 @@
     "x": 612,
     "y": 108,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "iconsize": 20,
     "iconx": 640,
     "icony": 106,
@@ -1141,7 +1141,7 @@
     "iconname": "Enter",
     "content": {
       "type": "1U6",
-      "first": "",
+      "first": "40",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1157,8 +1157,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "4",
-      "second": "←",
+      "first": "92",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1173,7 +1173,7 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "5",
+      "first": "93",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1189,8 +1189,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "6",
-      "second": "→",
+      "first": "94",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1200,7 +1200,7 @@
     "x": 0,
     "y": 143,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "iconsize": 18,
     "iconx": 42,
     "icony": 142,
@@ -1208,7 +1208,7 @@
     "iconname": "Shift",
     "content": {
       "type": "1U8",
-      "first": "",
+      "first": "225",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1225,7 +1225,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "Z",
+      "first": "29",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1241,7 +1241,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "X",
+      "first": "27",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1257,7 +1257,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "C",
+      "first": "6",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1273,7 +1273,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "V",
+      "first": "25",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1289,7 +1289,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "B",
+      "first": "5",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1305,7 +1305,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "N",
+      "first": "17",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1321,7 +1321,7 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "M",
+      "first": "16",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1337,8 +1337,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": ",",
-      "second": "<",
+      "first": "54",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1353,8 +1353,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": ".",
-      "second": ">",
+      "first": "55",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1369,8 +1369,8 @@
     "iconname": "",
     "content": {
       "type": "1U",
-      "first": "/",
-      "second": "?",
+      "first": "56",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1380,7 +1380,7 @@
     "x": 593,
     "y": 143,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "iconsize": 18,
     "iconx": 632,
     "icony": 142,
@@ -1388,7 +1388,7 @@
     "iconname": "Shift",
     "content": {
       "type": "2U",
-      "first": "",
+      "first": "229",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1400,12 +1400,12 @@
     "x": 765,
     "y": 143,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "idArray": "",
     "iconname": "ArrUp",
     "content": {
       "type": "specialBlock",
-      "first": "",
+      "first": "82",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1421,8 +1421,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "1",
-      "second": "End",
+      "first": "89",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1437,8 +1437,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "2",
-      "second": "↓",
+      "first": "90",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1453,8 +1453,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": "3",
-      "second": "PgDw",
+      "first": "91",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1469,7 +1469,7 @@
     "iconname": "",
     "content": {
       "type": "longBlock",
-      "first": "Enter",
+      "first": "88",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1485,7 +1485,7 @@
     "iconname": "",
     "content": {
       "type": "2U2",
-      "first": "Ctrl",
+      "first": "224",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1497,12 +1497,12 @@
     "x": 59,
     "y": 178,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "idArray": "",
-    "iconname": "Win",
+    "iconname": "",
     "content": {
       "type": "2U2",
-      "first": "",
+      "first": "227",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1519,7 +1519,7 @@
     "iconname": "",
     "content": {
       "type": "2U2",
-      "first": "Alt",
+      "first": "226",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1531,15 +1531,15 @@
     "x": 177,
     "y": 178,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "iconsize": 20,
     "iconx": 310,
     "icony": 177,
     "idArray": "",
-    "iconname": "Space",
+    "iconname": "",
     "content": {
       "type": "6U2",
-      "first": "",
+      "first": "44",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1555,7 +1555,7 @@
     "iconname": "",
     "content": {
       "type": "2U2",
-      "first": "Alt",
+      "first": "230",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1567,12 +1567,12 @@
     "x": 522,
     "y": 178,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "idArray": "",
     "iconname": "Win",
     "content": {
       "type": "2U2",
-      "first": "",
+      "first": "231",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1584,15 +1584,15 @@
     "x": 581,
     "y": 178,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "iconsize": 19,
     "iconx": 587,
     "icony": 177,
     "idArray": "",
-    "iconname": "App",
+    "iconname": "",
     "content": {
       "type": "2U2",
-      "first": "",
+      "first": "101",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1608,7 +1608,7 @@
     "iconname": "",
     "content": {
       "type": "2U2",
-      "first": "Ctrl",
+      "first": "228",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1620,12 +1620,12 @@
     "x": 715,
     "y": 178,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "idArray": "",
-    "iconname": "ArrLeft",
+    "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "",
+      "first": "80",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1636,12 +1636,12 @@
     "x": 765,
     "y": 178,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "idArray": "",
-    "iconname": "ArrDwn",
+    "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "",
+      "first": "81",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1652,12 +1652,12 @@
     "x": 814,
     "y": 178,
     "centered": true,
-    "icon": true,
+    "icon": false,
     "idArray": "",
-    "iconname": "ArrRight",
+    "iconname": "",
     "content": {
       "type": "specialBlock",
-      "first": "",
+      "first": "79",
       "second": "",
       "third": "",
       "fourth": ""
@@ -1673,8 +1673,8 @@
     "iconname": "",
     "content": {
       "type": "wideBlock",
-      "first": "0",
-      "second": "Ins",
+      "first": "98",
+      "second": "",
       "third": "",
       "fourth": ""
     }
@@ -1689,8 +1689,8 @@
     "iconname": "",
     "content": {
       "type": "block",
-      "first": ".",
-      "second": "Del",
+      "first": "99",
+      "second": "",
       "third": "",
       "fourth": ""
     }
