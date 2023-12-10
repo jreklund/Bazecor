@@ -31,7 +31,7 @@ const Style = Styled.div`
   font-size: inherit;
   .badge-circle {
     width: 8px;
-    height: 8px; 
+    height: 8px;
     border-radius: 50%;
     background-color: rgba(254,0,124,1);
     position: absolute;
@@ -79,11 +79,14 @@ class DualFunctionPicker extends Component {
 
     this.modKey = [
       { name: "None ", keynum: 0 },
-      { name: "Dual Control ", nameStd: "Ctrl", keynum: 49169 },
-      { name: "Dual Shift   ", nameStd: "Shift", keynum: 49425 },
-      { name: "Dual Alt     ", nameStd: "Alt", keynum: 49681 },
-      { name: "Dual OS  ", nameStd: "OS", keynum: 49937 },
-      { name: "Dual Alt Gr  ", nameStd: "Alt Gr.", keynum: 50705 },
+      { name: "Dual Left Control", nameStd: "LCTL", keynum: 49169 },
+      { name: "Dual Left Shift", nameStd: "LSFT", keynum: 49425 },
+      { name: "Dual Left Alt", nameStd: "LALT", keynum: 49681 },
+      { name: "Dual Left GUI", nameStd: "LGUI", keynum: 49937 },
+      { name: "Dual Right Control", nameStd: "RCTL", keynum: 50193 },
+      { name: "Dual Right Shift", nameStd: "RSFT", keynum: 50449 },
+      { name: "Dual Right Alt", nameStd: "RALT", keynum: 50705 },
+      { name: "Dual Right GUI", nameStd: "RGUI", keynum: 50961 },
     ];
     this.layerKey = [
       { name: "None ", keynum: 0 },
